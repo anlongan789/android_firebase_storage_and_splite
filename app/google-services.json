@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29647935642",
+    "project_id": "my-ec-shop",
+    "storage_bucket": "my-ec-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29647935642:android:2c20eac0a8c3a3dfb4e723",
+        "android_client_info": {
+          "package_name": "com.example.myecshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29647935642-s0lt7apt9u9ri5vep7uuppq7o306b0js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZPk1dxBojJYrSxa8qXnca9hGGM2JuRtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29647935642-s0lt7apt9u9ri5vep7uuppq7o306b0js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
